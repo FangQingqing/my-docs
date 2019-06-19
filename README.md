@@ -1,6 +1,6 @@
 # first-demo
 
-> just a demo-blogs
+> just a demo-docs
 
 ## Development
 
